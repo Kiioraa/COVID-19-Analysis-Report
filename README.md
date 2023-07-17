@@ -70,6 +70,9 @@ I acquired skills in using Microsoft Excel to develop polished and user-friendly
 #### The rate of death cases is about 1.4% while that of recovered cases is about 7.4%
 
 
+![](Top5countries.png)
+
+
 
 
 
