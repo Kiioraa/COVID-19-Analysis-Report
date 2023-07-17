@@ -66,11 +66,21 @@ I acquired skills in using Microsoft Excel to develop polished and user-friendly
 
 # Findings 
 ![](EpidemicMetrics.png)
-
 #### The rate of death cases is about 1.4% while that of recovered cases is about 7.4%
-
+---
 
 ![](Top5countries.png)
+#### The United States recorded the highest number of COVID-19 cases, surpassing all other countries, with an alarming total of over 58 billion infections.
+---
+
+![](Bottom5countries.png)
+#### North Korea recorded the lowest number of COVID-19 cases with over 300 cases.
+---
+
+![](Cummulative.png)
+#### In the year 2022, there was a significant surge in COVID-19 cases, reaching an unprecedented number of approximately 196,529,309,166 confirmed cases.
+
+
 
 
 
