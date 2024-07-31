@@ -6,7 +6,7 @@
 
 
 #### This is my first Excel Project. All the data cleaning,extraction and visualization process were done using Microsoft Excel.
-This project is in accordance with the N30days of learning program which was hosted by Mr.Olanrewaju Oyinbooke as at June 2022.
+
 The file comprises of 7 tabs which are:
 - Home
 - Analysis
